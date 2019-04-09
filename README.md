@@ -1,5 +1,5 @@
 ### WIKI SEARCH 
-This application has been created with react and styled using semantic-ui-react. This site allows you to search wiki articles and redirect you to the article once clicked.
+This application has been created with react and styled using semantic-ui-react. This site allows you to search wiki articles using the wiki media API and redirect you to the article once the placeholder is clicked.
 
 ### SCRIPTS 
 
